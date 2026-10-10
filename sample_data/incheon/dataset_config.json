@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-10-10T01:29:21.995510Z",
+  "aoi_name": "incheon_outer_port",
+  "bbox_crs84": [
+    126.4,
+    37.32,
+    126.62,
+    37.48
+  ],
+  "output_crs": "OGC:CRS84",
+  "width": 1950,
+  "height": 1780,
+  "nominal_pixel_spacing_m": 10,
+  "bands": [
+    "VV_dB",
+    "VH_dB",
+    "dataMask"
+  ],
+  "dtype": "FLOAT32",
+  "collection": "sentinel-1-grd",
+  "product_type": "IW_GRDH_1S",
+  "acquisition_mode": "IW",
+  "polarization": "DV (VV+VH)",
+  "backscatter": "GAMMA0_ELLIPSOID",
+  "orthorectified": true,
+  "canonical_speckle_filter": "NONE",
+  "search_days": 730,
+  "training_pool_scenes": 78,
+  "temporal_core_scenes": 49,
+  "temporal_core_orbit_state": "ascending",
+  "temporal_core_relative_orbit": 127,
+  "training_pool_median_interval_days": 12.0
+}
