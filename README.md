@@ -142,3 +142,5 @@ GeoTIFF와 생성 PNG는 파일이 크고 다시 생성할 수 있으므로 Git�
 4. `AIS 매칭 / AIS 미매칭 후보 / 고정시설 / 불확실` 라벨 작성
 5. SSDD·HRSID 등 공개 SAR 선박 데이터로 탐지기 사전학습
 6. 인천 수동 검수 라벨로 추가 학습 및 평가
+
+# References https://colab.research.google.com/drive/1ejLKBvTBYMfMUEl2XjaYCm7Lq7GZZXUx?usp=sharing
