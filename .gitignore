@@ -1,0 +1,37 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# macOS and editors
+.DS_Store
+.vscode/
+.idea/
+
+# Generated runtime data
+outputs/
+*.log
+*.jsonl
+
+# Large satellite and visualization products
+*.tif
+*.tiff
+*.geotiff
+*.png
+*.jpg
+*.jpeg
+*.zip
+
+# Temporary files
+work/
+tmp/
+*.part

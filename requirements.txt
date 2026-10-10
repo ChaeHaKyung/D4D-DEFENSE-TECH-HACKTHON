@@ -1,0 +1,12 @@
+# 웹 대시보드 프레임워크
+streamlit>=1.40
+# 지도와 지리 레이어 생성
+folium>=0.18
+# Folium 지도를 Streamlit 화면에 삽입
+streamlit-folium>=0.24
+# SAR 픽셀 배열·적분영상·통계 계산
+numpy>=2.0
+# PNG/TIFF 읽기와 마스크·바운딩박스 그리기
+Pillow>=11.0
+# FLOAT32 다중 밴드 GeoTIFF 읽기와 PNG 변환
+tifffile>=2026.9.20
